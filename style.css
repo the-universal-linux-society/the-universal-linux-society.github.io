@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+    color: green;
+    font-family: Arial, sans-serif;
+}
+
+header, footer {
+    text-align: center;
+    padding: 1em;
+}
+
+main {
+    margin: 2em auto;
+    width: 80%;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+p {
+    font-size: 1.2em;
+}
